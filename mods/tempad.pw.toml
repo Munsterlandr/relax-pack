@@ -1,0 +1,13 @@
+name = "Tempad"
+filename = "tempad-fabric-1.19.2-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/8tZvxMsZ/tempad-fabric-1.19.2-1.4.4.jar"
+hash-format = "sha1"
+hash = "181e9ad8b48c7b6c097b2515c0b4fa458105a9cc"
+
+[update]
+[update.modrinth]
+mod-id = "gKNwt7xu"
+version = "8tZvxMsZ"

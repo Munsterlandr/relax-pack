@@ -1,0 +1,13 @@
+name = "Soul Shards Despawn"
+filename = "soulshards-despawn-1.19.2-1.0.5-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpNGsSsC/versions/L6JQhJqW/soulshards-despawn-1.19.2-1.0.5-quilt.jar"
+hash-format = "sha1"
+hash = "fbfd2f5dc114d4ae430e6dcdb5f9e52ddbc3bb15"
+
+[update]
+[update.modrinth]
+mod-id = "MpNGsSsC"
+version = "L6JQhJqW"
