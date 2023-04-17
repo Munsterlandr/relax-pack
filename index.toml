@@ -9,6 +9,10 @@ file = "README.md"
 hash = "37d0e6e08124244406184ee2e64c6bf4bfd7715aa9754659c958657af98079a1"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "92eca9a20dfddc78f2133d71279ae25f78042d00615d73d84cfdf4360c42114a"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "69bc79801ac468020ff1bf3fd315d7d4d5cf15727a75c0d1b12a980a6e960c94"
 metafile = true
@@ -772,3 +776,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "f0c59e61a14aa4a401b904dc501b133c7c02f7d21e2d3eddc9cca6bc8538e5ea"
