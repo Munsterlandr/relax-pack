@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-classes.pw.toml"
-hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
+hash = "d5b2f9d8624b485a9730cc7ad5d73349e969231f40bc4afbc64a48ebff9b39c0"
 metafile = true
 
 [[files]]

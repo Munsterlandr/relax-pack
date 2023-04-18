@@ -1,13 +1,16 @@
 name = "Relax Pack"
 author = "Munsterlandr"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1568677dab473c1845accce4dc8ee992fbff6f4aea27832af2f47c42d1b36882"
+hash = "f8d8cc5b16c0812b0cf93cc8d59f9573791dd965f3fe133f287bd20bb2cc9599"
 
 [versions]
 minecraft = "1.19.2"
 quilt = "0.18.10"
+
+[options]
+acceptable-game-versions = ["1.19.1"]
